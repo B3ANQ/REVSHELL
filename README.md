@@ -1,4 +1,6 @@
-# revshel_divtype
+# REVSHELL
+
+## This Project is to make a revshell in different programming languages
 
 Those are reverse shell scripts that connects back to an attacker's machine.
 It uses sockets to establish a connection and subprocess to execute commands.
